@@ -22,6 +22,6 @@ Thank You
 
 Made by:
 	Vishnu Hidesh
-	BCA 2021-24, KBMGC Chokli
+	BCA 2021-24, KBMGCT Chokli
 	Github: github.com/vishnuhidesh
 	Instagram: @vishnu_hidesh
